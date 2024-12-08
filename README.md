@@ -8,9 +8,8 @@
 <p><em> SDE@CollegeDunia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: coderaky](https://img.shields.io/badge/-coderaky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coderaky/)](https://www.linkedin.com/in/coderaky/)
-[![GitHub coderaky](https://img.shields.io/github/followers/coderaky?label=follow&style=social)](https://github.com/coderaky)
-[![Twitter: coderaky](https://img.shields.io/twitter/follow/coderaky?style=social)](https://twitter.com/coderaky)
+[![Linkedin: coderaky](https://img.shields.io/badge/-coderaky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajatsrivastava24/)](https://www.linkedin.com/in/rajatsrivastava24/)
+[![GitHub coderaky](https://img.shields.io/github/followers/coderaky?label=follow&style=social)](https://github.com/SrvstvRajat/)
 
 
 
