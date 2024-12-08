@@ -32,11 +32,11 @@ I'm Up for SDE Roles and working on Interesting Side Projects.
 <h3>Interest: </h3>
 
 I am very interested in Problem Solving, Data Structure and Algorithms, System Design and Architecture, Front-End Development, and UX/UI.
-I love to develop & design new stuff creatively. I'm passionate about writing code, solving problems, Data Structures and Algorithms, building software, and doing creative stuff.
+I love to develop and design new things creatively. I'm passionate about writing code, solving problems, Data Structures and Algorithms, building software, and doing creative work.
 
 **<a href="https://srvstvrajat.github.io/Portfolio/" target="_blank">`SrvstvRajat.com`</a>**
 </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderaky" alt="coderaky" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SrvstvRajat" alt="SrvstvRajat" /> </p>
 
 </br>
 
