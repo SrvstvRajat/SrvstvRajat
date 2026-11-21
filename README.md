@@ -1,169 +1,135 @@
+<!-- ───────────────────────── HERO ───────────────────────── -->
 <p align="center">
-  <img src="assets/header.svg" alt="Rajat Kumar Srivastava — Backend engineer. I like finding where the milliseconds go." width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,20,24,30&text=Rajat%20Kumar%20Srivastava&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Backend%20Engineer%20·%20M.Tech%20CSE%20@%20IIIT-Delhi&descSize=18&descAlignY=60" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajatsrivastava24/"><img src="https://img.shields.io/badge/LinkedIn-0F1830?style=flat-square&logo=linkedin&logoColor=35D0BA" /></a>
-  <a href="mailto:rajatk24srivastava@gmail.com"><img src="https://img.shields.io/badge/Email-0F1830?style=flat-square&logo=gmail&logoColor=FF7A45" /></a>
-  <a href="https://srvstvrajat.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0F1830?style=flat-square&logo=googlechrome&logoColor=FFB347" /></a>
-  <a href="https://codeforces.com/profile/rajat_srvstv"><img src="https://img.shields.io/badge/Codeforces-Expert_1608-0F1830?style=flat-square&logo=codeforces&logoColor=F4D35E" /></a>
-  <a href="https://leetcode.com/u/SrvstvRajat"><img src="https://img.shields.io/badge/LeetCode-1809-0F1830?style=flat-square&logo=leetcode&logoColor=FFB347" /></a>
-  <img src="https://komarev.com/ghpvc/?username=SrvstvRajat&label=views&color=16213F&style=flat-square" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=Building+APIs+that+stay+fast+under+load;Cut+API+latency+35%25+%7C+AI+eval+cost+96%25;Tracing+tail+latency+with+eBPF+in+Kubernetes;Codeforces+Expert+%7C+LeetCode+1809" alt="typing" />
 </p>
 
-```console
-$ whoami
-rajat — backend engineer · M.Tech CSE @ IIIT-Delhi (graduating 2027)
-
-$ cat now.txt
-studying   graduate systems, algorithms, big data analytics
-exploring  tail latency in Kubernetes with eBPF
-open to    backend / systems engineering roles and good collabs
-```
-
-<br/>
-
-### The trace
-
-Every bar is a span. The three projects sit under the M.Tech span because that is where they happened, and the last two ran side by side.
-
 <p align="center">
-  <img src="assets/journey.svg" alt="Timeline from 2019 to 2027: B.Tech at MMMUT, backend SDE at CollegeDunia, M.Tech at IIIT-Delhi, and three projects" width="100%" />
+  <a href="https://www.linkedin.com/in/rajatsrivastava24/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rajatk24srivastava@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-DB2777?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://srvstvrajat.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 <br/>
 
-### What moved
+<!-- ───────────────────────── BENTO: ABOUT ───────────────────────── -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👋 Hello, I'm Rajat
+Backend engineer who likes making things **fast, cheap and reliable**. Shipped APIs, LLM pipelines, media processing and payments at CollegeDunia, and now going deeper into **systems, algorithms and kernel-level observability** at IIIT-Delhi.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Right now
+- 🎓 M.Tech CSE · IIIT-Delhi · *grad 2027* · CGPA **8.63**
+- 🔬 Tail-latency analysis with **eBPF**
+- 📚 Graduate Systems · Algorithms · Big Data
+- 📫 Open to **backend / systems roles**
+
+</td>
+</tr>
+</table>
+
+<!-- ───────────────────────── NUMBERS ───────────────────────── -->
+<table align="center">
+<tr align="center">
+<td width="25%"><h1>35%</h1><sub>faster Prepp API</sub></td>
+<td width="25%"><h1>96%</h1><sub>cheaper AI evaluation<br/>₹50 → ₹2</sub></td>
+<td width="25%"><h1>2000+</h1><sub>problems solved</sub></td>
+<td width="25%"><h1>1809</h1><sub>LeetCode rating</sub></td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ───────────────────────── EXPERIENCE ───────────────────────── -->
+## 💼 Where I've worked
+
+<table>
+<tr>
+<td width="18%" valign="top"><b>Sep 2024<br/>– May 2025</b><br/><sub>Gurugram</sub></td>
+<td valign="top">
+
+**Software Development Engineer (Backend) · CollegeDunia**<br/>
+<sub><code>NestJS</code> <code>GraphQL</code> <code>MongoDB</code> <code>Redis</code> <code>AWS</code></sub>
+
+- ⚡ **−35% API latency** on Prepp via Redis caching, index tuning and query restructuring
+- 🤖 **UPSC answer evaluation with AI** (GPT-4 Vision + Textract OCR + PDF reports): ~₹50 → ~₹2 per evaluation
+- 🎞️ **In-house FFmpeg HLS pipeline** (144p–1080p, cron job queue, S3) replacing AWS MediaConvert, 7–8 videos/day
+- 💳 **Juspay HyperCheckout** migration with webhook signature validation and async payment events
+
+</td>
+</tr>
+</table>
+
+<!-- ───────────────────────── PROJECTS ───────────────────────── -->
+## 🧪 Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### 🔬 Tail Latency in Kubernetes
+<sub>Feb – May 2026</sub>
+
+3-node cluster, controlled contention, and **eBPF/bpftrace** tracing that pinned scheduler contention as the cause of **+43% p99** and **−37% throughput**.
+
+<code>Kubernetes</code> <code>Docker</code> <code>eBPF</code> <code>Linux</code>
+
+</td>
+<td width="33%" valign="top">
+
+#### 🥗 FoodEVPred
+<sub>Jan – Apr 2026</sub>
+
+Async ML inference for classifying food-derived EV protein sources. Node.js REST API → Redis → FastAPI, with UUID tracking, batching and email delivery.
+
+<code>Node.js</code> <code>FastAPI</code> <code>Redis</code> <code>Python</code>
+
+</td>
+<td width="33%" valign="top">
+
+#### 📡 Cellular Network Simulator
+<sub>Aug – Dec 2025</sub>
+
+Modular OOP simulator for users, resource allocation and capacity limits, with **multithreaded** allocation and consistent shared state.
+
+<code>C++</code> <code>Multithreading</code> <code>OOP</code>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ───────────────────────── STACK ───────────────────────── -->
+## 🛠 Stack
 
 <p align="center">
-  <img src="assets/impact.svg" alt="Before and after: API latency down 35%, evaluation cost down 96%, p99 up 43% and throughput down 37% under contention" width="100%" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,c,go,nodejs,nestjs,express,fastapi,graphql,react&perline=12&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,postgres,mysql,kafka,aws,docker,kubernetes,linux,git,github,postman&perline=12&theme=dark" />
 </p>
 
 <br/>
 
-### Work worth opening
+<!-- ───────────────────────── ACHIEVEMENTS ───────────────────────── -->
+## 🏆 Competitive programming & exams
 
-Each one expands into the shape of the system.
-
-<details>
-<summary><b>Prepp API performance</b> &nbsp;·&nbsp; CollegeDunia &nbsp;·&nbsp; <code>NestJS</code> <code>GraphQL</code> <code>MongoDB</code> <code>Redis</code></summary>
-<br/>
-
-Cut API latency by **35%** by caching hot reads in Redis, tuning MongoDB indexes and restructuring queries across the NestJS/GraphQL services.
-
-</details>
-
-<details>
-<summary><b>AI evaluation of handwritten UPSC answers</b> &nbsp;·&nbsp; <code>GPT-4 Vision</code> <code>AWS Textract</code></summary>
-<br/>
-
-Cost per evaluation went from about ₹50 to about ₹2 (**96% less**), and the team relies less on human evaluators.
-
-```mermaid
-flowchart LR
-  A[Handwritten answer] --> B[AWS Textract OCR]
-  A --> C[GPT-4 Vision]
-  B --> D[Evaluation]
-  C --> D
-  D --> E[PDF report]
-```
-
-</details>
-
-<details>
-<summary><b>In-house HLS video pipeline</b> &nbsp;·&nbsp; <code>FFmpeg</code> <code>AWS S3</code></summary>
-<br/>
-
-Replaced AWS MediaConvert, removing per-minute conversion charges. Processes 7–8 videos a day.
-
-```mermaid
-flowchart LR
-  A[Video] --> B[Cron-driven job queue]
-  B --> C[FFmpeg HLS<br/>144p to 1080p]
-  C --> D[(S3)]
-```
-
-</details>
-
-<details>
-<summary><b>Payments on Juspay HyperCheckout</b> &nbsp;·&nbsp; <code>REST</code> <code>Webhooks</code></summary>
-<br/>
-
-Moved the backend payment workflow to Juspay HyperCheckout. Webhook signatures are validated, and payment events are handled asynchronously so status updates can be trusted.
-
-```mermaid
-flowchart LR
-  A[Checkout] --> B[Juspay HyperCheckout]
-  B -->|webhook| C{Signature valid?}
-  C -->|yes| D[Async payment-event handler]
-  C -->|no| E[Rejected]
-  D --> F[Payment status updated]
-```
-
-</details>
-
-<details>
-<summary><b>Tail latency in Kubernetes with eBPF</b> &nbsp;·&nbsp; Feb–May 2026 &nbsp;·&nbsp; <code>Kubernetes</code> <code>Docker</code> <code>bpftrace</code></summary>
-<br/>
-
-A 3-node cluster running Dockerized microservices, with controlled resource contention applied to benchmark tail latency. Kernel events traced with eBPF/bpftrace pointed to **scheduler-level contention** as the cause of **43% higher p99 latency** and **37% lower throughput**.
-
-```mermaid
-flowchart LR
-  A[Load] --> B[3-node Kubernetes cluster<br/>Dockerized microservices]
-  X[Controlled contention] --> B
-  B --> C[eBPF / bpftrace<br/>kernel scheduler events]
-  C --> D[p99 +43% · throughput -37%]
-```
-
-</details>
-
-<details>
-<summary><b>FoodEVPred, async ML inference</b> &nbsp;·&nbsp; Jan–Apr 2026 &nbsp;·&nbsp; <code>Node.js</code> <code>FastAPI</code> <code>Redis</code></summary>
-<br/>
-
-Classifies food-derived EV protein sources. A Node.js REST backend fronts a Python/FastAPI inference service; requests are tracked by UUID, batched through Redis, and results are emailed automatically.
-
-```mermaid
-flowchart LR
-  A[Web UI] --> B[Node.js REST API]
-  B -->|UUID request id| C[(Redis)]
-  C -->|batch| D[FastAPI inference]
-  D --> E[Email result]
-```
-
-</details>
-
-<details>
-<summary><b>Cellular network capacity simulator</b> &nbsp;·&nbsp; Aug–Dec 2025 &nbsp;·&nbsp; <code>C++</code> <code>Multithreading</code></summary>
-<br/>
-
-Object-oriented C++ simulator with users, resource allocation and capacity constraints as separate components. Allocation is multithreaded and keeps shared state consistent under concurrent user operations.
-
-</details>
-
-<br/>
-
-### Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,c,go,nodejs,nestjs,express,fastapi,graphql,react&perline=12" /><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,postgres,mysql,kafka,aws,docker,kubernetes,linux,git,github,postman&perline=12" />
-</p>
-
-<br/>
-
-### Scoreboard
-
-| | |
-|---|---|
-| **Codeforces** | Expert, max rating 1608 |
-| **LeetCode** | rating 1809, 2000+ problems solved across platforms |
-| **GATE CSE 2024** | All India Rank 2543 |
-| **Google Hash Code 2021** | rank 414 |
-| **Google Kick Start 2021** | global rank 1789 |
-| **IIIT-Delhi M.Tech** | CGPA 8.63 · 2025–2027 |
-| **MMMUT B.Tech** | CGPA 7.58 · 2019–2023 |
+<table>
+<tr align="center">
+<td width="20%">🥇<br/><b>Codeforces</b><br/><sub>Expert · max 1608</sub></td>
+<td width="20%">🧩<br/><b>LeetCode</b><br/><sub>rating 1809</sub></td>
+<td width="20%">📘<br/><b>GATE CSE 2024</b><br/><sub>AIR 2543</sub></td>
+<td width="20%">🌍<br/><b>Hash Code 2021</b><br/><sub>rank 414</sub></td>
+<td width="20%">🌐<br/><b>Kick Start 2021</b><br/><sub>global 1789</sub></td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/SrvstvRajat?theme=dark&font=Fira%20Code&ext=heatmap" height="190" alt="LeetCode stats" />
@@ -171,24 +137,18 @@ Object-oriented C++ simulator with users, resource allocation and capacity const
 
 <br/>
 
-### Contribution graph, eaten
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SrvstvRajat/SrvstvRajat/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SrvstvRajat/SrvstvRajat/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/SrvstvRajat/SrvstvRajat/output/github-snake.svg" />
-  </picture>
-</p>
+<!-- ───────────────────────── GITHUB ───────────────────────── -->
+## 📈 GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SrvstvRajat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrvstvRajat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrvstvRajat&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
 
 <p align="center">
-  <i>If you want to talk backend systems, performance, or algorithms, say hi.</i><br/>
-  <a href="https://www.linkedin.com/in/rajatsrivastava24/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:rajatk24srivastava@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://www.instagram.com/rajat._srivastava">Instagram</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24,30&section=footer&text=Let's%20build%20something%20fast&fontSize=22&fontColor=ffffff&fontAlignY=68" width="100%" />
 </p>
